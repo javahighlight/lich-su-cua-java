@@ -6,6 +6,7 @@ Vào đầu những năm 1990, Java được phát triển bởi một nhóm k�
 Mục tiêu chính của Java là tạo ra một ngôn ngữ lập trình độc lập với nền tảng, hoạt động theo nguyên tắc "viết một lần, chạy mọi nơi" (Write Once, Run Anywhere - WORA). Điều này được thực hiện thông qua Java Virtual Machine (JVM), một môi trường ảo cho phép mã Java chạy trên bất kỳ thiết bị nào có cài đặt JVM, bất kể hệ điều hành.
 
 2. Các mốc phát triển quan trọng của Java
+
 2.1. Ra mắt chính thức (1995)
 Vào tháng 5 năm 1995, Sun Microsystems chính thức phát hành Java 1.0, đánh dấu sự ra đời của một ngôn ngữ lập trình mang tính cách mạng. Phiên bản này cung cấp các tính năng cơ bản như tính hướng đối tượng, bảo mật và khả năng chạy trên nhiều nền tảng. Java nhanh chóng thu hút sự chú ý nhờ khả năng phát triển applet – các ứng dụng nhỏ chạy trong trình duyệt web.
 
@@ -34,9 +35,10 @@ Java không chỉ là một ngôn ngữ lập trình mà còn là một biểu t
 
 Hãy bắt đầu khám phá Java ngay hôm nay để tận dụng tiềm năng của ngôn ngữ lập trình này!
 
-Java hiện đại trên nền công nghệ số
 📚 Lịch sử của Java – Hành trình từ “Oak” đến ngôn ngữ lập trình mạnh mẽ toàn cầu!
 Khám phá nguồn gốc, sự phát triển và vì sao Java vẫn giữ vững vị trí top đầu trong thế giới lập trình.
+
 🔍 Tìm hiểu ngay tại: javahighlight.com
+
 
 #LichSuCuaJava #JavaHighlight #LapTrinhJava #LichSuLapTrinh #NgonNguLapTrinh #JavaProgramming #JavaDeveloper #JavaHistory #CodingVietnam #DevHocCode #JavaTimeline
